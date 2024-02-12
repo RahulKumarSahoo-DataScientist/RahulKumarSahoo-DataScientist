@@ -4,8 +4,8 @@
 
 ###
 
-<h2 align="left">Hello,I'm Rahul Kumar Sahoo and I'm a Data Scientist, a passionate self-taught data scientist and freelance software engineer from India. My enthusiasm for data science lies in conceptualizing innovative ideas and bringing them to fruition through insightful analysis and predictive models. I prioritize meticulous attention to detail in data processing, modeling techniques, and code quality to ensure robust and efficient solutions."
-  
+<h2 align="left">Hello,I'm Rahul Kumar Sahoo who Passionate and driven data scientist fresher with a solid foundation in statistics, programming, and data analysis techniques. Eager to apply my skills in real-world scenarios to drive insightful decision-making and contribute to innovative projects. Committed to continuous learning and growth in the dynamic field of data science.</h2>
+
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 <h3 align="center">A passionate Data Scientist from India</h3>
 
