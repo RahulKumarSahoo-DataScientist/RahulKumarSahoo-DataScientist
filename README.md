@@ -14,7 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 👯 I’m looking to collaborate on **Cloud Based Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulKumarSahoo-DataScientist/RahulKumarSahoo-DataScientist.git](https://github.com/RahulKumarSahoo-DataScientist/RahulKumarSahoo-DataScientist.git)
+- 👨‍💻 All of my projects are available at https://github.com/RahulKumarSahoo-DataScientist?tab=repositories
 
 - 💬 Ask me about **Data Science**
 
